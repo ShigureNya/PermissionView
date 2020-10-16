@@ -1,0 +1,5 @@
+<resources>
+    <string name="permission_hint">
+        如果不同意调用以上权限，将导致该功能无法正常使用，但不影响使用本应用的基本功能。你可随时前往“ 设置 ”>“ 权限管理 ” ， 选择关闭以上权限调用以撤回你的同意。
+    </string>
+</resources>

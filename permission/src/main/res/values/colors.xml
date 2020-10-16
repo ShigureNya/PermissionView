@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PermissionColorPrimary">#6200EE</color>
+    <color name="PermissionColorPrimaryDark">#3700B3</color>
+    <color name="PermissionColorAccent">#03DAC5</color>
+</resources>
